@@ -1,0 +1,63 @@
+Create a separate version for two-year colleges.
+Post the revised templates earlier.
+Guide surveys ask for additional calculations, so why not include them in the template?
+It would be nice if the questions aligned with what the rankings organizations sponsoring it end up wanting -- for instance, some require average test scores but the 25/75th is what we're filling out in the Common Data Set.
+The only issue I have with the format is that sometimes the excel sheets aren't the right size.
+Please append a descriptor to the names: Tab A General Information, Tab B Enrollment and Persistence, and so on.
+IPEDS and Academic Insights (US News) use similar formats.
+It would be helpful to have formulas built into the CDS Excel file to provide automated category and column totals.
+Many items which are calculated for IPEDS, including items calculated during the Fall Collection, are data points on the CDS.
+Macros or equations should be used to calculate totals and identify potential errors.
+Is there a better way to set up this sheet?
+Frequently, rows or columns are improperly spaced, causing text to be cut off or hidden.
+As it stands, there are 2 decimal places.
+(I also do this in columns to the right on my own copy).
+It's time for a digital option that can be properly maintained and analyzed.
+The questionnaire serves as the basis for many important submissions.
+I use the Excel template but often find that some cells are not formatted to make all text visible and some formatting extends across all columns, creating issues when converting to pdf.
+This is really frustrating and a big waste of time to fix them.
+The format is fine.
+However I think it can get confusing to those unfamiliar with the format.
+Our current Student Information System doesn't allow for this yet, but it is on the horizon.
+It would be helpful if item B1 provided additional columns to the right for calculated subtotals for each row - for example total full-time degree-seeking, total part-time degree-seeking, total degree-seeking FTE (FT + PT/3), and then total degree-seeking headcount.
+For example, in section F1 you are asking about residency, Greek life, housing, etc.
+This format is hard to use for someone who is not already familiar with it.
+It might be my new computer but the Excel version formatting  this year is off: differing font sizes across a few pages, items cut off or extending beyond the page, etc.
+Also calculated percentages for each column in B2 would be helpful - for example % of DS FT FY who are Hispanic, % of DS UG who are Hispanic, % of Total UG who are Hispanic, etc.
+It occurred to me that I should plan to always report on CDS with whole numbers, to ensure I'm consistent when reporting to other parties.
+Formats change constantly and data is stored in unintuitive table fragments.
+Consistency in formatting and options (numbers, percentages, decimals, etc.).
+whenever totals are needed, it should be automatically sum if using the Excel spreadsheet.
+For example, the table in F1 could be separated by darker rows to show the separation in subject.
+ADA compliance would be a huge HUGE bonus.
+This means I have to go in and add gridlines/columns and resize so that everything can easily be seen.
+CDS could suggest this in the template by having 0 decimal places in the formatting on these items.
+The CDS is only useful if it keeps to the standards of the external reports it was created to assist.
+I think tables and lines help the people understand delineate when there will be a different topic.
+I think the format options of Excel and Word are fine.
+The excel version  is not properly formatted.
+While we can copy/paste those sections, it is a lot of back and forth, formatting, etc.
+The amount of inefficient and repetitive data entry caused by the CDS is really absurd.
+I'm sure there are number of schools doing this, and if it was addressed in the form to begin with, we wouldn't all be remediating on our own.
+There seems to be a lot of duplication of efforts across questions.
+The questionnaire format is adequate as is.
+The appearance of the Excel template could be improved.
+There have been several requests for changes to match university policy changes and social movements, but it is not beneficial to make that change if the companies asking for data don't make that change.
+It would help to have that included with the template.
+I would be happy to share my formulas.
+I think that having different formats is useful to all institutions since we all have different needs.
+I am assuming that since this is being printed in publications for on-ground freshman you would want to know only the information for on-ground students.
+Items included in the cds template are incomplete.
+CDS format is virtually unusable to analysts looking to combine institutions and years.
+A third gender option to capture non-binary students and faculty.
+That makes it easier for non-CDS types to navigate and use.
+I like the Excel format, but some of the fields need to be formatted to accommodate more info for clarification, for example C8F
+Allow for the Excel spreadsheet margins to be adjusted.
+Questionnaire Format: Spend the time to make sure the full text of the questions on the blank Excel are visible before posting to the website.
+It would be nice to have a tableau-type chart or other mechanism that displays previous year's data (when items have remained consistent).
+Very minor thought: I just ran into a problem where  presented proportions from CDS (like distrib of SAT scores in C9) did not sum to 100 when rounded off to whole numbers.
+I'm not sure why the formatting in this year's template changed, but there are dozens of cells where you can't read the full text.
+For example, C17 could have the housing be a separate number.
+Now that more schools are using the CDS as a de facto "factbook", the consortium should ensure that the templates are designed to be used in that fashion.
+It is difficult to navigate because it is not organized in a way that makes intuitive sense to me.
+the format is painful to me- it needs to be created so that when a PDF of the excel doc is created it's clean to read, without useless whitespace and without questions being cut by a page break.

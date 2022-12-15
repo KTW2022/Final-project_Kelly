@@ -1,0 +1,10 @@
+We would like to see a web-based database for data entry of CDS data, which could then be downloaded from the interface into a PDF format.
+We need a way to compile and send the CDS as a dataset.
+As for format, I strongly feel that there should be a centralized collection system where people can submit data and download peer data (for peers who want to share it).
+Thinking long term, it would be wonderful if there were some type of online form where we could enter new data or easily roll the previous years’ information over (for the sections that haven’t changed).
+Additionally, having CDS in more of a database could allow individual schools and/or other interested parties to pull down data for a few schools that they want to compare (although we would want to retain the ability to add notes wherever we wanted.)
+The interface could also be used for benchmarking purposes.
+As for the format, it would make sense for the CDS to transition to an online data capture/survey format -- then each of the college guide publishers could simply download the data from the central depository instead of asking each institution to send in their CDS forms or requesting data to be manually entered.
+Since we are providing all of this information to help them offer their services ($$$) to prospective students they should host a server to let us upload/enter the data.
+This should be top priority.
+Regarding the questionnaire format, consider moving to an integration data publishing workflow that builds upon the free and open Credential Registry.

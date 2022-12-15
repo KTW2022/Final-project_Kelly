@@ -1,0 +1,31 @@
+11/1 is typically the last standard freeze date across all populations, so it's not unreasonable for schools to have the CDS ready for stakeholder review on that day.
+I think that the current template formats are past their prime.
+The timing is fine.
+release date is way too late - needs to be released in September or earlier to collect information across departments  explore a common submission format for the publishers such as a standardized XML to eliminate re-typing
+Excel template has many rows not adjusted properly to display all text.
+I know they often offer the option of having them manually key-in our data into their systems, but I don't know of other institutions that trust that process so we end up spending a lot of time typing in to the US News Best Colleges, Princeton Review and College Board BigFuture portals.
+I find the CDS extremely useful in gathering common data for the various college search groups.
+After fall census and prior to spring ranking surveys.
+This would allow us to make sure we collect needed data rather than going back and having to gather different data.
+The main feedback I have is to request that ADA accessibility of the form be addressed.
+If we are to post the CDS on our website, it must conform to accessibility standards, and it take time to modify the current form to meet the standards.
+The analysts would finish their work and be able to record the information one time instead of having to come back to do the calculations.
+Most institutions are collecting and/or finalizing their fall enrollment census data by mid-to-late September.
+Every year IR offices are clamoring to get the new version of the CDS, and often must begin populating last year's template as a place-holder, wasting time and resources when the new template must then be filled in.
+Each publisher could then just solicit the information specific to their survey instead of needing schools to repetitively answer the same data.
+We never use the Word template.
+The release date works well with our reporting cycles - so no comments there.
+I feel like communication about timing was better this year, and that's what's really important.
+The Tabs are named A-J, which is useless for most humans.
+Many annual surveys open at the same time each year, and the CDS should follow suite, with a release data of September 1 annually, or something similar.
+Have a SOLID date when the CDS will be available.
+The Excel file has lots of inconsistent and wonky formatting.
+Some things in numbers, others in percentages, lots of merged cells, etc.
+The definitions also need to be far more specific -- more than one would think, as this eliminates opportunities for different institutions to define terms in a different manner.
+It would be helpful if the tuition/fees was the current year, not the future year.
+Since the CDS is usually released in late October/early November, I usually refer to the previous year's format and begin completing the questionnaire in September.
+First, the release of the CDS in mid-October is way too late.
+Also, there should be instructions regarding online enrollment.
+It doesn't make sense to know how many online are not in campus housing because these students will never interact with the online students.
+It is time to move past Microsoft Word and Excel.
+That is a very crazy time for IR with federal, state, and system reporting demands.

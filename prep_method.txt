@@ -1,0 +1,7 @@
+(Yes, analysts can do the calculations as completed the year before because usually definitions don't change.
+I always do this on my own copy of the Excel sheet.
+We merge all the sections onto a single Excel sheet and add a column to assign the office responsible for the data so we can filter.
+But when the definitions or data needs have changed, that has lead to additional work.)
+While we can’t work on the actual numbers until after fall freeze, we could start working with other departments on the policy oriented questions much earlier.
+Instead of grouping by publisher requested data, it would be easier to just have each piece of information collected one time and then distribute it as-needed to the publishers.
+To be able to work with the data once, including completing data points which differ in definition from IPEDS while working with the data set used, would streamline the work for small IR offices.

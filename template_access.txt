@@ -1,0 +1,6 @@
+Posting it on our website conflicts with 508 compliance laws.
+The spreadsheet is fine, as we add multiple sub-sheets for areas to add their own data, then auto-populate the main sheets, but it would be helpful to have something with a minimum of appealing design and accessibility.
+Make the formats accessible to comply with Federal requirements.
+If the forms were redesigned, could they be made accessible and screen reader-friendly?
+I have concerns about the accessibility of the template.
+The document is not formatted to be accessible.
